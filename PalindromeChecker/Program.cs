@@ -6,7 +6,9 @@ namespace PalindromeChecker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Checking Update");
+            UserInterface user = new UserInterface();
+            user.Welcome();
+            user.AddWord();
         }
     }
 }

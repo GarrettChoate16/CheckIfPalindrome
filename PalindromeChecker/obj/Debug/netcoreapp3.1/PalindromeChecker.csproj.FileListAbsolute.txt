@@ -1,0 +1,14 @@
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.exe
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.deps.json
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.json
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.dev.json
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\bin\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfo.cs
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.dll
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.pdb
+C:\Users\16144\Desktop\Projects\GitHub\CheckIfPalindrome\PalindromeChecker\obj\Debug\netcoreapp3.1\PalindromeChecker.genruntimeconfig.cache
